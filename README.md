@@ -19,7 +19,10 @@ Run Program
 11. Modify url by adding '/docs' to the end
 
 ![image](https://user-images.githubusercontent.com/60635932/113964386-67db2c80-97f9-11eb-83a7-bcd978498310.png)
+
+
 12. Click on Get->Try it out-> Execute
-13. Output is in JSON format under responses
+
+14. Output is in JSON format under responses
 ![image](https://user-images.githubusercontent.com/60635932/113964520-a670e700-97f9-11eb-883d-9d1a0ee61f7c.png)
 
